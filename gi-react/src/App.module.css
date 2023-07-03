@@ -1,0 +1,12 @@
+.layout{
+margin-top: 5rem;
+display: grid;
+grid-template-columns: repeat(2,1fr);
+row-gap: 8rem;
+}
+
+.h1{
+    text-align: center;
+    font-size: 4rem;
+    margin-top: 2.5rem;
+}
